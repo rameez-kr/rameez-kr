@@ -49,5 +49,5 @@ DevOps tool that reads logs, metrics, and traces to detect root causes of produc
 
 ## 📫 Contact
 
-LinkedIn: https://linkedin.com  
+LinkedIn: www.linkedin.com/in/abdul-rameez-k-r-3382a51a3
 Email: rameez.kr88@gmail.com
