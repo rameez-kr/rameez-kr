@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Rameez
 
-<!--
-**rameez-kr/rameez-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Developer with 10+ years experience building scalable cloud systems and developer platforms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Backend**
+- .NET Core
+- Python (FastAPI)
+
+**Frontend**
+- Angular
+- React
+
+**Cloud & DevOps**
+- Azure
+- Docker
+- Kubernetes
+- CI/CD
+
+**Architecture**
+- Microservices
+- Distributed Systems
+- API Design
+- System Design
+
+---
+
+## 🧠 Projects
+
+### AI Codebase Analyzer
+AI tool that scans GitHub repositories and generates architecture diagrams, flowcharts, and improvement suggestions.
+
+### Autonomous API Security Scanner
+AI security platform that automatically tests APIs for vulnerabilities like authentication bypass, injection attacks, and broken access control.
+
+### AI Incident Response Platform
+DevOps tool that reads logs, metrics, and traces to detect root causes of production failures.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rameez-kr&show_icons=true)
+
+---
+
+## 📫 Contact
+
+LinkedIn: https://linkedin.com  
+Email: rameez.kr88@gmail.com
